@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452893516206",
+    "project_id": "neighbourhood-library-app",
+    "storage_bucket": "neighbourhood-library-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452893516206:android:c87fc5ca5ad19c882ee83f",
+        "android_client_info": {
+          "package_name": "com.example.aee_fyp3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoT4S_01SiZ3KVFOVWk2ukGujVcSY0yec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
