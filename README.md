@@ -8,4 +8,4 @@ This is the final version of my Flutter-based FYP project.
 
 2. Clone this repository:
 ```bash
-git clone https://github.com/afiqahelina04/fyp.git
+git clone https://github.com/afiqahelina04/NEIGHBOURHOOD_LIBRARY_MOBILE_APP.git
