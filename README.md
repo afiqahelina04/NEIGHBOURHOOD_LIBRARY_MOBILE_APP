@@ -1,7 +1,3 @@
-Absolutely — here’s a **ready-to-copy section for your README.md**, including the note that your app only works on Android:
-
----
-
 ## 📱 Neighbourhood Library Mobile App
 
 This is the final Flutter project for my FYP, featuring a Neighbourhood Library app that allows users to share and borrow books with each other. The app is integrated with Firebase for authentication, data storage, and messaging.
@@ -48,7 +44,3 @@ This is the final Flutter project for my FYP, featuring a Neighbourhood Library 
 
 * Firebase has been initialized inside the project and the required configuration files (`google-services.json`) are included.
 * No additional setup is needed to run on Android.
-
----
-
-Would you like a shorter or more detailed version?
